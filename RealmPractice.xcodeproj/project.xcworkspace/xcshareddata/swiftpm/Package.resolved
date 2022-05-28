@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "elementkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/practice20200/ElementKit",
+      "state" : {
+        "revision" : "bff28f2936db5b9471a312daa5cba06159bada07",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core",
+      "state" : {
+        "revision" : "472d325a2e844fcb48c400db74e6b9646f92ca93",
+        "version" : "11.15.0"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "3606696de98bca92d6152852ff37c4735f907cd1"
+      }
+    }
+  ],
+  "version" : 2
+}
